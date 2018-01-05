@@ -2,25 +2,39 @@
 * AI and Deep Learning in 2017 – A Year in Review by Denny Britz : 
 http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 
-## Reinforcement Learning beats humans at their own games
+## The year of reinforcement learning 
+ #### Reinforcement Learning beats humans at their own games
 * How Does DeepMind's AlphaGo Zero Work? by Siraj Raval : https://youtu.be/vC66XFoN4DE
 * DeepStack, the first AI to beat professional poker players : https://www.deepstack.ai
 * Tensorflow and deep reinforcement learning, without a PhD by Martin Gorner : https://youtu.be/aRKOJHRbXeo
 
+ #### Reinforcement Learning Frameworks 
+* OpenAI Roboschool : https://blog.openai.com/roboschool/
+* Unity ML Agents allows researchers and developers to create games and simulations using the Unity Editor: https://github.com/Unity-Technologies/ml-agents
+
+ #### Reinforcement Learning Lectures 
+ * Deep Learning and Reinforcement Summer School in Montreal: http://videolectures.net/deeplearning2017_montreal/
+ * UC Berkeley’s Deep Reinforcement Learning : https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
+ * The Deep RL Bootcamp co-hosted by OpenAI and UC Berkeley : https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0
+ 
 ## Evolution Algorithms make a Comeback
 * How to Make an Evolutionary Tetris AI : https://youtu.be/xLHCMMGuN0Q
 * Today I tried: Evolution Strategies : https://youtu.be/C4MUTIc-NB8
+
 
 ## WaveNets improvements 
 * Tacotron 2: Generating Human-like Speech from Text: http://bit.ly/2BUBisM
 * Google’s Tacotron 2 text-to-speech system produces extremely impressive audio samples : https://google.github.io/tacotron/publications/tacotron2/index.html
 
+
 ## Attention Mechanisms
 * Attention is all you need : https://youtu.be/iDulhoQ2pro
 * Attention is all you need attentional neural network models – Łukasz Kaiser: https://youtu.be/rBCqOTEfxvg
 
+
 ## Capsules Network : 
 * Dynamic Routing Between Capsules Sara Sabour,Nicholas Frosst,Geoffrey E. Hinton: https://github.com/MagaliDrumare/Innovation-Dynamic-Routing-Between-Capsules-
+
 
 ## The Year of Deep Learning frameworks
 * PyTorch made by Facebook : https://github.com/MagaliDrumare/How-to-learn-PyTorch-NN-CNN-RNN-LSTM
@@ -32,8 +46,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Announcement Uber Machine Learning infrastructure platform : https://eng.uber.com/michelangelo/
 * Because the number of framework is getting out of hand, Facebook and Microsoft announced the ONNX open format to share deep learning models across frameworks: https://onnx.ai
 
-# Reinforcement Learning frameworks
-* 
+
 
 
 
