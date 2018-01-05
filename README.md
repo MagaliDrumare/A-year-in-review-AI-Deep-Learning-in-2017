@@ -49,6 +49,16 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Announcement Uber Machine Learning infrastructure platform : https://eng.uber.com/michelangelo/
 * Because the number of framework is getting out of hand, Facebook and Microsoft announced the ONNX open format to share deep learning models across frameworks: https://onnx.ai
 
+## Applications
+  
+  #### Healthcare 
+* healthcare.ai : https://healthcare.ai
+  
+  #### Self Driving Car
+  
+
+
+
 
 
 
