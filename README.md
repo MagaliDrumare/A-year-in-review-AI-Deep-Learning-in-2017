@@ -28,7 +28,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * TensorFlow Lite : https://www.tensorflow.org/mobile/tflite/
 * Apple CoreML : https://github.com/MagaliDrumare/How-to-convert-Scikit-learn-Caffe-Keras-trained-models-into-Core-ML-models
 * Uber Pyro : https://github.com/MagaliDrumare/Innovation-Pyro-and-Horovod-made-in-Uber-AI-Lab-
-* Amazon Gluon :https://youtu.be/me1qOzSg8MU
+* Amazon Gluon : https://youtu.be/me1qOzSg8MU
 
 
 
