@@ -20,6 +20,9 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
  
  ## The year of GAN : generative adversarial Networks 
  * Generative-Adversarial-Network-with-Tensorflow-GAN : https://github.com/MagaliDrumare/Generative-Adversarial-Network-with-Tensorflow-GAN
+ * TensorFlow GAN : https://github.com/MagaliDrumare/Innovation-TensorFlow-GAN-TFGAN-to-train-GAN
+ * Innovation-How-to-use-GAN-for-Self-Driving-Car : https://github.com/MagaliDrumare/Innovation-How-to-use-GAN-for-Self-Driving-Car
+ 
  
 ## Evolution Algorithms make a Comeback
 * How to Make an Evolutionary Tetris AI : https://youtu.be/xLHCMMGuN0Q
