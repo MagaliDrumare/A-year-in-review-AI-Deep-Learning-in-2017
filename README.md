@@ -25,7 +25,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
  * Innovation-How-to-use-GAN-for-Self-Driving-Car : https://github.com/MagaliDrumare/Innovation-How-to-use-GAN-for-Self-Driving-Car
  
  
-## Evolution Algorithms make a Comeback
+## Evolution Algorithms make a comeback
 * How to Make an Evolutionary Tetris AI : https://youtu.be/xLHCMMGuN0Q
 * Today I tried: Evolution Strategies : https://youtu.be/C4MUTIc-NB8
 
@@ -37,7 +37,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Attention is all you need : https://youtu.be/iDulhoQ2pro
 * Attention is all you need attentional neural network models – Łukasz Kaiser: https://youtu.be/rBCqOTEfxvg
 
-## Capsules Network : 
+## Capsules Network 
 * Dynamic Routing Between Capsules Sara Sabour,Nicholas Frosst,Geoffrey E. Hinton: https://github.com/MagaliDrumare/Innovation-Dynamic-Routing-Between-Capsules-
 
 ## The Year of Deep Learning frameworks
