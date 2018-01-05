@@ -17,6 +17,13 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Google’s Tacotron 2 text-to-speech system produces extremely impressive audio samples : https://google.github.io/tacotron/publications/tacotron2/index.html
 
 ## Attention Mechanisms
+* Attention is all you need : https://youtu.be/iDulhoQ2pro
+* Attention is all you need attentional neural network models – Łukasz Kaiser: https://youtu.be/rBCqOTEfxvg
+
+## 2017, The Year of Deep Learning frameworks
+* PyTorch : https://github.com/MagaliDrumare/How-to-learn-PyTorch-NN-CNN-RNN-LSTM
+* TensorFlow 
+
 
 
 
