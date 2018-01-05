@@ -3,7 +3,7 @@
 http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * NIPS 2017 : https://nips.cc/Conferences/2017/Videos
 
-## The year of reinforcement learning 
+## The year of Reinforcement Learning 
 
 ### Reinforcement Learning beats humans at their own games
 * How Does DeepMind's AlphaGo Zero Work? by Siraj Raval : https://youtu.be/vC66XFoN4DE
