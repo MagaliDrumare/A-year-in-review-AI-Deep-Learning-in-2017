@@ -22,13 +22,22 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 ## Capsules Network : 
 * Dynamic Routing Between Capsules Sara Sabour,Nicholas Frosst,Geoffrey E. Hinton: https://github.com/MagaliDrumare/Innovation-Dynamic-Routing-Between-Capsules-
 
-## 2017, The Year of Deep Learning frameworks
-* PyTorch : https://github.com/MagaliDrumare/How-to-learn-PyTorch-NN-CNN-RNN-LSTM
-* TensorFlow Eager(a new eager execution mode which works similar to PyTorch’s dynamic computation graphs): https://youtu.be/yPgvoLWSkFo
-* TensorFlow Lite : https://www.tensorflow.org/mobile/tflite/
-* Apple CoreML : https://github.com/MagaliDrumare/How-to-convert-Scikit-learn-Caffe-Keras-trained-models-into-Core-ML-models
-* Uber Pyro : https://github.com/MagaliDrumare/Innovation-Pyro-and-Horovod-made-in-Uber-AI-Lab-
-* Amazon Gluon : https://youtu.be/me1qOzSg8MU
+## The Year of Deep Learning frameworks
+* PyTorch made by Facebook : https://github.com/MagaliDrumare/How-to-learn-PyTorch-NN-CNN-RNN-LSTM
+* TensorFlow Eager made by Google (a new eager execution mode which works similar to PyTorch’s dynamic computation graphs): https://youtu.be/yPgvoLWSkFo
+* TensorFlow Lite made by Google  : https://www.tensorflow.org/mobile/tflite/
+* Apple CoreML made by Apple: https://github.com/MagaliDrumare/How-to-convert-Scikit-learn-Caffe-Keras-trained-models-into-Core-ML-models
+* Pyro made by Uber : https://github.com/MagaliDrumare/Innovation-Pyro-and-Horovod-made-in-Uber-AI-Lab-
+* Gluon made by Amazon: https://youtu.be/me1qOzSg8MU
+* Announcement Uber Machine Learning infrastructure platform : https://eng.uber.com/michelangelo/
+* Because the number of framework is getting out of hand, Facebook and Microsoft announced the ONNX open format to share deep learning models across frameworks: https://onnx.ai
+
+# Reinforcement Learning frameworks
+* 
+
+
+
+
 
 
 
