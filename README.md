@@ -1,5 +1,4 @@
-# A year in review : AI and Deep Learning in 2017 
-
+## A year in review : AI and Deep Learning in 2017 
 * AI and Deep Learning in 2017 – A Year in Review by Denny Britz : 
 http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 
@@ -20,9 +19,18 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Attention is all you need : https://youtu.be/iDulhoQ2pro
 * Attention is all you need attentional neural network models – Łukasz Kaiser: https://youtu.be/rBCqOTEfxvg
 
+## Capsules Network : 
+* Dynamic Routing Between Capsules Sara Sabour,Nicholas Frosst,Geoffrey E. Hinton: https://github.com/MagaliDrumare/Innovation-Dynamic-Routing-Between-Capsules-
+
 ## 2017, The Year of Deep Learning frameworks
 * PyTorch : https://github.com/MagaliDrumare/How-to-learn-PyTorch-NN-CNN-RNN-LSTM
-* TensorFlow 
+* TensorFlow Eager(a new eager execution mode which works similar to PyTorch’s dynamic computation graphs): https://youtu.be/yPgvoLWSkFo
+* TensorFlow Lite : https://www.tensorflow.org/mobile/tflite/
+* Apple CoreML : https://github.com/MagaliDrumare/How-to-convert-Scikit-learn-Caffe-Keras-trained-models-into-Core-ML-models
+* Uber Pyro : https://github.com/MagaliDrumare/Innovation-Pyro-and-Horovod-made-in-Uber-AI-Lab-
+* Amazon Gluon :https://youtu.be/me1qOzSg8MU
+
+
 
 
 
