@@ -7,7 +7,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 
 ### Reinforcement Learning beats humans at their own games
 * How Does DeepMind's AlphaGo Zero Work? by Siraj Raval : https://youtu.be/vC66XFoN4DE
-* DeepStack, the first AI to beat professional poker players : https://www.deepstack.ai
+* DeepStack, the first AI to beat professional poker players : 
 * Tensorflow and deep reinforcement learning, without a PhD by Martin Gorner : https://youtu.be/aRKOJHRbXeo
 
 ### Reinforcement Learning Frameworks 
@@ -18,7 +18,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
  * Deep Learning and Reinforcement Summer School in Montreal: http://videolectures.net/deeplearning2017_montreal/
  * UC Berkeley’s Deep Reinforcement Learning : https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
  * The Deep RL Bootcamp co-hosted by OpenAI and UC Berkeley : https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0
- 
+ https://www.deepstack.ai
  ## The year of GAN : generative adversarial Networks 
  * Generative-Adversarial-Network-with-Tensorflow-GAN : https://github.com/MagaliDrumare/Generative-Adversarial-Network-with-Tensorflow-GAN
  * TensorFlow GAN : https://github.com/MagaliDrumare/Innovation-TensorFlow-GAN-TFGAN-to-train-GAN
@@ -50,12 +50,23 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 * Announcement Uber Machine Learning infrastructure platform : https://eng.uber.com/michelangelo/
 * Because the number of framework is getting out of hand, Facebook and Microsoft announced the ONNX open format to share deep learning models across frameworks: https://onnx.ai
 
-## Applications
+## AI Applications
   
-  #### Healthcare 
-* healthcare.ai : https://healthcare.ai
-  
-  #### Self Driving Car
+### Healthcare 
+* Healthcare.ai: https://healthcare.ai
+* The End of Human Doctors blog post series by Luke Oakden-Rayner: https://goo.gl/2vCyN2
+* Dermatologist-level classification of skin cancer : https://goo.gl/feSKCN
+* Cardiologist-Level Arrhythmia Detection With Convolutional Neural Networks: https://stanfordmlgroup.github.io/projects/ecg/
+* Improving Palliative Care with Deep Learning: https://arxiv.org/pdf/1711.06402.pdf
+
+### Self Driving Car
+* drive.ai : https://www.drive.ai
+* I love self-driving cars and I work on them at @Udacity! David Silver: : https://medium.com/@dsilver829
+* MIT 6.S094: Deep Learning for Self-Driving Cars : https://github.com/MagaliDrumare/A-year-in-review-AI-Deep-Learning-in-2017/edit/master/README.md
+
+### 2018, manufacturing 
+* landing.ai : https://www.landing.ai
+
   
 
 
