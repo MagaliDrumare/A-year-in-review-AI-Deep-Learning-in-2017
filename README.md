@@ -62,7 +62,7 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 ### Self Driving Car
 * drive.ai : https://www.drive.ai
 * I love self-driving cars and I work on them at @Udacity! David Silver: : https://medium.com/@dsilver829
-* MIT 6.S094: Deep Learning for Self-Driving Cars : https://github.com/MagaliDrumare/A-year-in-review-AI-Deep-Learning-in-2017/edit/master/README.md
+* MIT 6.S094: Deep Learning for Self-Driving Cars : https://selfdrivingcars.mit.edu
 
 ### 2018, manufacturing 
 * landing.ai : https://www.landing.ai
